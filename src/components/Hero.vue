@@ -5,7 +5,7 @@
 
         <div class="max-w-2xl">
             <h1 class="text-2xl font-extrabold mb-6">
-                Build Your Dream Web Projects </h1>
+                PUSHING CLONE INTO GIT </h1>
 
                 <p class="text-lg mb-8 text-white">
                     Learn Amazing Web Projects! </p>
